@@ -1,7 +1,7 @@
 # 👋 Yo! I'm Sri
 
 Welcome to my GitHub lair 🧭  
-I’m on a quest to become a **$100K+ Flutter + App Developer** by the end of the year — and you’re watching it happen live.
+I’m on a quest to become an **App Developer** by the end of the year — and you’re watching it happen live.
 
 ## 🧙 Who Am I?
 - 🔨 Flutter Developer | UI/UX Designer | Python Coder
