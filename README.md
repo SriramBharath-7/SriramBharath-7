@@ -5,8 +5,8 @@ I’m on a quest to become a **$100K+ Flutter + App Developer** by the end of th
 
 ## 🧙 Who Am I?
 - 🔨 Flutter Developer | UI/UX Designer | Python Coder
-- 🎞️ Video Editor with a deep love for storytelling
-- 🧠 Creator of gamified systems like **SOVEREIGN RPG** in Notion
+- 🎞️ Video Editor
+- 🧠 Creating a gamified system like **SOVEREIGN RPG** in Notion
 - 🌱 Currently mastering `Flutter`, `Dart`, `Python`, and UX principles
 
 ## 🧰 Tech Toolbox
