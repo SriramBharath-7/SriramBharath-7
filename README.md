@@ -1,3 +1,19 @@
+<!-- 📊 GitHub Stats -->
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=radical&count_private=true)
+
+<!-- 🔥 GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=radical)
+
+<!-- 🏆 GitHub Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SriramBharath-7&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 💬 Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&theme=radical)
+
+<!-- 🧱 3D Contribution Graph (Link Preview) -->
+<a href="https://skyline.github.com/SriramBharath-7/2024" target="_blank">
+  <img src="https://github.com/SriramBharath-7/SriramBharath-7/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
+</a>
 
 ## 👋 Yo! I'm Sri
 
