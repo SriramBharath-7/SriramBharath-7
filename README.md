@@ -81,7 +81,7 @@
     <td align="center" valign="middle" width="50%">
       <!-- First row: 3 links -->
       <div align="center">
-        <a href="www.linkedin.com/in/sriram-bharath-852335306" target="_blank"><img src="./img/Linkedin.png" alt="LinkedIn" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/sriram_bharath" target="_blank"><img src="./img/codedev.png" alt="Dev.to" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/30682963/sriram-bharath" target="_blank"><img src="./img/stack.png" alt="Stack Overflow" width="40" height="40" /></a>
+        <a href="https://www.linkedin.com/in/sriram-bharath-852335306/" target="_blank"><img src="./img/Linkedin.png" alt="LinkedIn" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/sriram_bharath" target="_blank"><img src="./img/codedev.png" alt="Dev.to" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/30682963/sriram-bharath" target="_blank"><img src="./img/stack.png" alt="Stack Overflow" width="40" height="40" /></a>
       </div>
       <br />
       <!-- Second row: 3 links -->
