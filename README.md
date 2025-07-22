@@ -88,7 +88,7 @@
       <div align="center">
         <a href="https://www.codechef.com/users/sriram_bharath" target="_blank"><img src="./img/chef.png" alt="CodeChef" width="40" height="40" /></a>
         <span style="display:inline-block; width:32px;"></span>
-        <a href="https://medium.com/@sriram_bharath" target="_blank"><img src="./img/medium.png" alt="Medium" width="40" height="40" /></a>
+        <a href="https://medium.com/@srirambharath7" target="_blank"><img src="./img/medium.png" alt="Medium" width="40" height="40" /></a>
       </div>
     </td>
   </tr>
