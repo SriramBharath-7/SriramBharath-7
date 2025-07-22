@@ -18,7 +18,7 @@
 - 🔭 Exploring Git, automation, hacking labs, and full-stack foundations  
 - 🎥 Editor & content creator on the side
 
-*“I’m not chasing trends — I’m building a future where I’m the final firewall.”*   <br></br>
+*“I’m not chasing trends — I’m building a future where I’m the final firewall.”* <br></br>
 
 
 ---
