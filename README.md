@@ -2,9 +2,11 @@
 <h3 align="center">Aspiring Ethical Hacker | Cybersecurity Enthusiast | Web Developer by Hobby ⚡</h3>
 
 ---
-<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />
 
-### 🧙 Who Am I?
+<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
+
+
+## 🧙 Who Am I?
 
 - 🐍 Python Coder with a creative mind  
 - 🧠 Ethical Hacker in training — security is the game, knowledge is the weapon  
@@ -93,3 +95,10 @@
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  
+  ![snake gif](https://github.com/SriramBharath-7/SriramBharath-7/blob/output/github-snake-dark.svg)
+</div>
