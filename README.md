@@ -15,10 +15,10 @@
 - 🧱 100 Days of Code Python (*rewriting my own path from Day 46 onward*)  
 - 🎮 Gamer at heart, building tools like **SOVEREIGN RPG** on Notion  
 - 🔭 Exploring Git, automation, hacking labs, and full-stack foundations  
-- 🎥 Editor & content creator on the side
+- 🎥 Editor & content creator on the side <br></br>
+
 
 *“I’m not chasing trends — I’m building a future where I’m the final firewall.”* <br></br>
-
 
 ---
 
