@@ -7,7 +7,6 @@
 
 ## 🧙 Who Am I?
 
-
 <img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
 
 
