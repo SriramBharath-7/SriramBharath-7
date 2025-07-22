@@ -3,10 +3,13 @@
 
 ---
 
-<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
 
 
 ## 🧙 Who Am I?
+
+
+<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
+
 
 - 🐍 Python Coder with a creative mind  
 - 🧠 Ethical Hacker in training — security is the game, knowledge is the weapon  
@@ -15,7 +18,8 @@
 - 🔭 Exploring Git, automation, hacking labs, and full-stack foundations  
 - 🎥 Editor & content creator on the side
 
-*“I’m not chasing trends — I’m building a future where I’m the final firewall.”*
+*“I’m not chasing trends — I’m building a future where I’m the final firewall.”*   <br></br>
+
 
 ---
 
@@ -89,7 +93,8 @@
       <!-- Third row: 1 link (centered below) -->
       <div align="center">
         <a href="https://www.codechef.com/users/sriram_bharath" target="_blank"><img src="./img/chef.png" alt="CodeChef" width="40" height="40" /></a>
-        <span style="display:inline-block; width:32px;"></span>
+        <span style="display:inline-block; width:32px;">  </span>
+        <span style="display:inline-block; width:32px;">   </span>
         <a href="https://medium.com/@srirambharath7" target="_blank"><img src="./img/medium.png" alt="Medium" width="40" height="40" /></a>
       </div>
     </td>
@@ -102,3 +107,10 @@
   
   ![snake gif](https://github.com/SriramBharath-7/SriramBharath-7/blob/output/github-snake-dark.svg)
 </div>
+
+
+<p align="center"><i>Building, learning, and sharing—one line of code at a time.</i></p>
+
+
+
+
