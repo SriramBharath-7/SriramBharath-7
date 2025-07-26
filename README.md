@@ -56,17 +56,28 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats & Top Languages: Same height, side by side -->
+
+<!-- ✨ GitHub Stats & Languages (Clean, No Borders) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=radical" height="180" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&hide_border=true&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8&icon_color=fb7185" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&hide_border=true&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8" height="180" />
 </p>
 
-<!-- GitHub Streak: Same height as above, but fills full width -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SriramBharath-7&theme=radical" height="180" width="93%" />
-</p>
+
+<!-- 🪽 Winged GitHub Streak - Clean Layout Without Table -->
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:10px; flex-wrap: wrap;">
+  <img src="./img/left_wing.png" width="200px" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=calm&hide_border=true&background=161722&ring=f9a8d4&fire=fb7185&currStreakLabel=fbcfe8&currStreakNum=f9a8d4&sideNums=c4b5fd&dates=a5f3fc&sideLabels=fbcfe8" 
+    alt="GitHub Streak Stats"
+    height="180"
+  />
+  <img src="./img/right_wing.png" width="200px" />
+</div>
+
+
+
+
 
 ---
 
