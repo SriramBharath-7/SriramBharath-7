@@ -57,12 +57,6 @@
 ## 📊 GitHub Stats
 
 
-<!-- ✨ GitHub Stats & Languages (Clean, No Borders) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&hide_border=true&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8&icon_color=fb7185" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&hide_border=true&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8" height="180" />
-</p>
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=calm&hide_title=true&hide_border=true&bg_color=161722&text_color=fbcfe8&title_color=f9a8d4&icon_color=fb7185"
