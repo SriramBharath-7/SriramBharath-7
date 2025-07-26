@@ -63,6 +63,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&hide_border=true&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8" height="180" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=calm&hide_title=true&hide_border=true&bg_color=161722&text_color=fbcfe8&title_color=f9a8d4&icon_color=fb7185"
+    height="200px"
+    style="vertical-align: middle;"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&theme=calm&hide_border=true&bg_color=161722&text_color=fbcfe8&title_color=f9a8d4"
+    height="200px"
+    style="vertical-align: middle;"
+  />
+</p>
+
 
 <!-- 🪽 Winged GitHub Streak - Clean Layout Without Table -->
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:10px; flex-wrap: wrap;">
@@ -74,24 +88,6 @@
   />
   <img src="./img/right_wing.png" width="150px" />
 </div>
-
-<!-- 🪽 Winged GitHub Streak (GitHub-compatible layout with invisible table) -->
-<table align="center">
-  <tr align="center">
-    <td valign="middle">
-      <img src="./img/left_wing.png" width="180px">
-    </td>
-    <td valign="middle">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=calm&hide_border=true&background=161722&ring=f9a8d4&fire=fb7185&currStreakLabel=fbcfe8&currStreakNum=f9a8d4&sideNums=c4b5fd&dates=a5f3fc&sideLabels=fbcfe8" 
-        height="180"
-      />
-    </td>
-    <td valign="middle">
-      <img src="./img/right_wing.png" width="180px">
-    </td>
-  </tr>
-</table>
 
 
 
