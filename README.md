@@ -72,16 +72,14 @@
 </p>
 
 
-<!-- 🪽 Winged GitHub Streak - Clean Layout Without Table -->
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:10px; flex-wrap: wrap;">
-  <img src="./img/left_wing.png" width="150px" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="./img/left_wing.png" width="20%" />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=calm&hide_border=true&background=161722&ring=f9a8d4&fire=fb7185&currStreakLabel=fbcfe8&currStreakNum=f9a8d4&sideNums=c4b5fd&dates=a5f3fc&sideLabels=fbcfe8" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=calm&hide_border=true&background=161722&ring=f9a8d4&fire=fb7185&currStreakLabel=fbcfe8&currStreakNum=f9a8d4&sideNums=c4b5fd&dates=a5f3fc&sideLabels=fbcfe8"
     alt="GitHub Streak Stats"
-    height="180"
-  />
-  <img src="./img/right_wing.png" width="150px" />
-</div>
+    width="50%" />
+  <img src="./img/right_wing.png" width="20%" />
+</p>
 
 
 
