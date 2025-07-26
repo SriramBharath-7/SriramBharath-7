@@ -75,6 +75,23 @@
   <img src="./img/right_wing.png" width="150px" />
 </div>
 
+<!-- 🪽 Winged GitHub Streak (GitHub-compatible layout with invisible table) -->
+<table align="center">
+  <tr align="center">
+    <td valign="middle">
+      <img src="./img/left_wing.png" width="180px">
+    </td>
+    <td valign="middle">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SriramBharath-7&theme=calm&hide_border=true&background=161722&ring=f9a8d4&fire=fb7185&currStreakLabel=fbcfe8&currStreakNum=f9a8d4&sideNums=c4b5fd&dates=a5f3fc&sideLabels=fbcfe8" 
+        height="180"
+      />
+    </td>
+    <td valign="middle">
+      <img src="./img/right_wing.png" width="180px">
+    </td>
+  </tr>
+</table>
 
 
 
