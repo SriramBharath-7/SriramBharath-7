@@ -9,11 +9,11 @@
 
 &nbsp;&nbsp;&nbsp;
 
-- 🛡️ Aspiring Ethical Hacker and Cybersecurity Expert focused on defending the digital world  
-- 🧠 I learn anything that sparks my curiosity, whether it's Python, tech, or random deep stuff  
-- 🎮 Building SOVEREIGN RPG, a Solo Leveling-inspired life system inside Notion  
-- 🎥 I love anime, editing, and creating content that feels real  
-- 🧩 I like solving things from scratch and always chase mastery over shortcuts  
+- 🛡️ Aspiring **Ethical Hacker** and **Cybersecurity Expert** focused on defending the digital world  
+- 🧠 I learn anything that sparks my **curiosity**, whether it's Python, tech, or random deep stuff  
+- 🎮 Building **SOVEREIGN RPG**, a Solo Leveling-inspired life system inside Notion  
+- 🎥 I love **anime**, **editing**, and **creating content** that feels real  
+- 🧩 I like solving things from scratch and always chase **mastery over shortcuts**  
 - 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.”  
 
 <br>
