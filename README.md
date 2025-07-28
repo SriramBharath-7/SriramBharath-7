@@ -5,7 +5,7 @@
 
 ## 🧙 Who Am I?
 
-<img align="right" src="./gif/programming.gif" width="350" alt="Coding GIF" />
+<img align="right" src="./gif/programming.gif" width="380" alt="Coding GIF" />
 
 &nbsp;&nbsp;&nbsp;
 
@@ -18,7 +18,7 @@
 
 <br>
 
-*“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”*
+> *“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”*
 
 ---
 
