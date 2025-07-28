@@ -5,10 +5,9 @@
 
 ## 🧙 Who Am I?
 
-<img align="right" src="./gif/programming.gif" width="410" alt="Coding GIF" />
+<img align="right" src="./gif/programming.gif" width="400" alt="Coding GIF" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 - 🛡️ Aspiring **Ethical Hacker** and **Cybersecurity Expert** focused on defending the digital world
   
 - 🧠 I learn anything that sparks my **curiosity**, whether it's Python, tech, or random deep stuff
