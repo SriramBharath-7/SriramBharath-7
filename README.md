@@ -3,25 +3,22 @@
 
 ---
 
-
-
-
 ## 🧙 Who Am I?
 
-<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="360" style="margin-left:40px; border-radius:8px;" />
+<img align="right" src="./gif/programming.gif" width="350" alt="Coding GIF" />
 
+&nbsp;&nbsp;&nbsp;
 
+- 🛡️ Aspiring Ethical Hacker and Cybersecurity Expert focused on defending the digital world  
+- 🧠 I learn anything that sparks my curiosity, whether it's Python, tech, or random deep stuff  
+- 🎮 Building SOVEREIGN RPG, a Solo Leveling-inspired life system inside Notion  
+- 🎥 I love anime, editing, and creating content that feels real  
+- 🧩 I like solving things from scratch and always chase mastery over shortcuts  
+- 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.”  
 
+<br>
 
-- 🛡️ Aspiring Ethical Hacker and Cybersecurity Expert focused on defending the digital world
-- 🧠 I learn anything that sparks my curiosity, whether it's Python, tech, or random deep stuff
-- 🎮 Building SOVEREIGN RPG, a Solo Leveling-inspired life system inside Notion
-- 🎥 I love anime, editing, and creating content that feels real
-- 🧩 I like solving things from scratch and always chase mastery over shortcuts
-- 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.” <br></br>
-
-
-*“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”* <br></br>
+*“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”*
 
 ---
 
