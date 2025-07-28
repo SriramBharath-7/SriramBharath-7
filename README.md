@@ -8,7 +8,8 @@
 
 ## 🧙 Who Am I?
 
-<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
+<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="360" style="margin-left:20px; border-radius:8px;" />
+
 
 
 - 🛡️ Aspiring Ethical Hacker and Cybersecurity Expert focused on defending the digital world
