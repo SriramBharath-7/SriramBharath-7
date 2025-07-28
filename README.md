@@ -20,11 +20,8 @@
 
 <br>
 
-- 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.”  
 
-<br>
-
-> *“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”*
+> 🌟 *“In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.”*
 
 ---
 
