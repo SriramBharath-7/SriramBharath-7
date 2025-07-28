@@ -11,15 +11,15 @@
 <img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="300" style="margin-left:16px; border-radius:6px;" />   
 
 
-- 🐍 Python Coder with a creative mind  
-- 🧠 Ethical Hacker in training — security is the game, knowledge is the weapon  
-- 🧱 100 Days of Code Python (*rewriting my own path from Day 46 onward*)  
-- 🎮 Gamer at heart, building tools like **SOVEREIGN RPG** on Notion  
-- 🔭 Exploring Git, automation, hacking labs, and full-stack foundations  
-- 🎥 Editor & content creator on the side <br></br>
+- 🛡️ Aspiring Ethical Hacker and Cybersecurity Expert focused on defending the digital world
+- 🧠 I learn anything that sparks my curiosity, whether it's Python, tech, or random deep stuff
+- 🎮 Building SOVEREIGN RPG, a Solo Leveling-inspired life system inside Notion
+- 🎥 I love anime, editing, and creating content that feels real
+- 🧩 I like solving things from scratch and always chase mastery over shortcuts
+- 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.” <br></br>
 
 
-*“I’m not chasing trends — I’m building a future where I’m the final firewall.”* <br></br>
+*“I’m not built to follow paths. I’m here to forge my own — with curiosity as my compass and chaos as my training ground.”* <br></br>
 
 ---
 
