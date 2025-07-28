@@ -8,7 +8,8 @@
 
 ## 🧙 Who Am I?
 
-<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="360" style="margin-left:20px; border-radius:8px;" />
+<img align="right" alt="Animated coding GIF" src="./gif/programming.gif" width="360" style="margin-left:40px; border-radius:8px;" />
+
 
 
 
