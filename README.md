@@ -7,7 +7,7 @@
 
 <img align="right" src="./gif/programming.gif" width="410" alt="Coding GIF" />
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 🛡️ Aspiring **Ethical Hacker** and **Cybersecurity Expert** focused on defending the digital world
   
