@@ -16,9 +16,10 @@
   
 - 🎥 I love **anime**, **editing**, and **creating content** that feels real
   
-- 🧩 I like solving things from scratch and always chase **mastery over shortcuts**
+- 🧩 I like solving things from scratch and always chase **mastery over shortcuts**<br></br>
 
-  
+<br>
+
 - 🌟 “In the future, I won’t just be watching the game — I’ll be the firewall the world relies on.”  
 
 <br>
