@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="./gif/hi.gif" width = "30"> , I'm Sriram Bharath</h1>
+<h1 align="center">Hi <img src="./gif/hi.gif" width="30"> , I'm <a href="https://sriram-portfolio-delta.vercel.app/">Sriram Bharath</a></h1>
+
 <h3 align="center">Aspiring Ethical Hacker | Cybersecurity Enthusiast | Web Developer by Hobby ⚡</h3>
 
 ---
