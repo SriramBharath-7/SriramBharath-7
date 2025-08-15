@@ -62,9 +62,9 @@
 
 <!-- 📊 GitHub Stats and 🔤 Top Languages - Responsive -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=calm&hide_border=true&border_radius=12&bg_color=161722&title_color=f9a8d4&icon_color=f9a8d4&text_color=c4b5fd" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriramBharath-7&show_icons=true&theme=calm&hide_border=true&border_radius=12&bg_color=161722&title_color=f9a8d4&icon_color=f9a8d4&text_color=c4b5fd" width="55%">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&theme=calm&hide_border=true&border_radius=12&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramBharath-7&layout=compact&theme=calm&hide_border=true&border_radius=12&bg_color=161722&title_color=f9a8d4&text_color=fbcfe8" width="40%">
 </p>
 
 
