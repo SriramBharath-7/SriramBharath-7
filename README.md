@@ -53,6 +53,19 @@
 <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143.svg?logo=pycharm&logoColor=white"></a>
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
 
+### 🕵️ Ethical Hacking Tools
+
+<a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-004C92.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2E86C1.svg?logo=security&logoColor=white"></a>
+<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white"></a>
+<!-- <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
+<a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6F00.svg?logo=burp&logoColor=white"></a>
+<a href="#"><img alt="Aircrack-ng" src="https://img.shields.io/badge/Aircrack--ng-FF0000.svg?logo=linux&logoColor=white"></a>
+<a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-333333.svg?logo=lock&logoColor=white"></a>
+<a href="#"><img alt="Hydra" src="https://img.shields.io/badge/Hydra-6C3483.svg?logo=security&logoColor=white"></a>
+<a href="#"><img alt="Nikto" src="https://img.shields.io/badge/Nikto-229954.svg?logo=terminal&logoColor=white"></a>  -->
+
+
 
 ---
 
